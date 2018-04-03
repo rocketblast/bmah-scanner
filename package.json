@@ -1,0 +1,19 @@
+{
+  "name": "bmah",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "node-fetch": "^2.1.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
